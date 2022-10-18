@@ -5,24 +5,12 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
-        self.founder = "Py-Contributors"
-        self.current_job_title = "Associate Data Scientist"
-        self.current_company = "Scry Analytics"
-        self.current_location = "Gurgaon, India" 
-        self.current_languages = "Python, Javascript, SQL, HTML, CSS"
-        self.current_frameworks = "Django, Flask, Bootstrap, React, Tensorflow, Keras, PyTorch"
-        self.current_databases = "MySQL, PostgreSQL, MongoDB, Redis"
-        self.current_cloud = "AWS, Heroku"
-        self.current_ide = "PyCharm, VS Code, Jupyter Notebook"
-        self.current_os = "Windows, Linux"
-
+        self.current_job_title = "Python Developer"
     def current_projects(self):
-        self.currently_learning = "Computer vision & Deep Learning 📚"
-        self.currently_working_on = "Computer Vision 🌱"
-        self.excited_for = "Internt of Things 🌎"
+        self.currently_learning = "Python"
     
     def contact_me(self):
-        self.email = "deepak008@live.com"
+        self.email = ""
  
 if '__repo__' == '__helpful__':
     star.it()
@@ -31,21 +19,8 @@ if '__repo__' == '__helpful__':
 
 <!-- Github Visitors -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/codeperfectplus/count.svg" />
+  <img src="https://profile-counter.glitch.me/DrakeEntity/count.svg" />
 </p>
-
-<!--Social Channel-->
-<p align="center"><a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-<a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
-<a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
-<a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
-<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
-</p>
-<!-- Github Profile Views -->
-
-
 
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
@@ -84,45 +59,32 @@ if '__repo__' == '__helpful__':
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
-| [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | :x: |
 | [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: |
 | [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
 | [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
-| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-| [AwesomeScripts](https://github.com/Py-Contributors/Stock-Dashboard)| collections for useful python scripts  | :x: |
-| [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | GUI tool to manage files smartly  | :x: |
-
-
-## Hackathon Projects
-
-| Project | Description  |
-| --- | --- |
-| [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
-| Hacktoberfest | Open Source Contribution 2020-21-22 |
-| HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
 
 ## Contributing
 
 <!-- Github Streak -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeperfectplus&theme=blue-white" alt="github streak">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrakeEntity&theme=blue-white" alt="github streak">
 
 <!-- Github Trophies -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=blue-white" alt="github trophies">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=DrakeEntity&theme=blue-white" alt="github trophies">
 
 <!-- Github contribution graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=DrakeEntity&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ## 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&theme=gotham" alt="codeperfectplus" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DrakeEntity&show_icons=true&theme=gotham" alt="codeperfectplus" />
 
 
 <!-- Github Profile Views -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus" />
+  <img src="https://komarev.com/ghpvc/?username=DrakeEntity" alt="DrakeEntity" />
 </p>
 
 
